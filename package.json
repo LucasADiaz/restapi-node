@@ -1,0 +1,25 @@
+{
+  "name": "restapinode",
+  "version": "1.0.0",
+  "description": "Aprendiendo a crear una Resst Api en Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasADiaz/restapi-node.git"
+  },
+  "author": "Lucas Agusstin Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasADiaz/restapi-node/issues"
+  },
+  "homepage": "https://github.com/LucasADiaz/restapi-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
